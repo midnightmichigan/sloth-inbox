@@ -69,7 +69,7 @@ The project is pure Python, **standard library only** — no dependencies to ins
 - `run_sloth.py` — the CLI. `python3 run_sloth.py --demo` and you're triaging.
 - `test_flow.py` — 15 checks, **15/15 passing**, all against the mock adapter.
 
-Repo link: *(to be added on publish — the code above is the complete project)*
+Repo: https://github.com/midnightmichigan/sloth-inbox (public, MIT — the complete project above, 15/15 checks green)
 
 ## How I Built It
 
